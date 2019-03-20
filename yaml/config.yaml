@@ -1,0 +1,12 @@
+charuco_create_board/output_path: "" 
+charuco_create_board/x_squares: 10
+charuco_create_board/y_squares: 14
+charuco_create_board/squares_size: 0.0280
+charuco_create_board/markers_size: 0.0168
+charuco_create_board/px_img_size_x: 600
+charuco_create_board/px_img_size_y: 500
+charuco_create_board/margins: 10
+charuco_create_board/borderBits: 1
+charuco_create_board/showImage: false
+charuco_create_board/dictionaryId: 10
+        

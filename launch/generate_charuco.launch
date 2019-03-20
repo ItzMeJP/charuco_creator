@@ -1,0 +1,9 @@
+<launch>
+
+	<arg name="yaml_configuration_filename" default="$(find charuco_creator)/yaml/config.yaml" />
+
+	<node pkg="charuco_creator" type="charuco_creator_node" name="charuco_creator" output="screen"  >
+		<rosparam command="load" file="$(arg yaml_configuration_filename)" subst_value="true" if="$(eval bool(yaml_configuration_filename))" />
+	</node>
+      
+</launch>

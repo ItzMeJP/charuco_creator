@@ -51,20 +51,20 @@ namespace charuco_creator{
 		ros::NodeHandlePtr node_handle_;
 		ros::NodeHandlePtr private_node_handle_;
 
-		double	create_squares_size,
-				create_markers_size;
+		double	create_squares_size_,
+				create_markers_size_;
 
-		bool create_showImage;
+		bool create_showImage_;
 
-		std::string create_output_path;
+		std::string create_output_path_;
 
-		int  	create_x_squares,
-		       	create_y_squares,
-				create_px_img_size_x,
-				create_px_img_size_y,
-				create_margins,
-				create_borderBits,
-				create_dictionaryId;
+		int  	create_x_squares_,
+		       	create_y_squares_,
+				create_px_img_size_x_,
+				create_px_img_size_y_,
+				create_margins_,
+				create_borderBits_,
+				create_dictionaryId_;
 
 	};
 
