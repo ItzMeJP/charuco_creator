@@ -6,6 +6,6 @@ The charuco_detector package can be found at: [charuco_detector](https://github.
 ## How to use
 Set the config.yaml with the parameters of the new ChAruco Pattern and run the launch:
 
-roslaunch charuco_creator generate_charuco.launch
+$roslaunch charuco_creator generate_charuco.launch
 
 The new charuco pattern will be generated in the specific path indicate in the config.yaml, otherwise in $HOME folder.
