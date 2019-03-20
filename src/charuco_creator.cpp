@@ -1,8 +1,8 @@
 /**\file charuco_detector.cpp
- * \brief Detector of ChArUco patterns
+ * \brief Creator of ChArUco patterns
  *
  * @version 1.0
- * @author Carlos Miguel Correia da Costa
+ * @author João Pedro Carvalho de Souza
  */
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   <includes>   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
